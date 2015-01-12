@@ -692,7 +692,7 @@ document[img_name].src = img_src;
             <p>No Reading (MIDTERM)</p>
             <b>Midterm Review:</b> 10/21 2-5PM Evans 10 </td>
           <!--Week 10-->
-          <td class="calendar" rowspan="2" id="10" title="25"> 
+          <td class="calendar" rowspan="2" id="10" title="25">
               <b>Guest Lecturer Anna Rafferty</b><br/><a href="lec/15">Artificial Intelligence </a> </td>
           <td class="calendar" rowspan="2" id="10" title="25"> Online Midterm in lab </td>
           <td class="calendar" id="10" title="27"> <a href="lec/16">
@@ -865,7 +865,7 @@ document[img_name].src = img_src;
           <td colspan="1" class="calendar">   </td>
           <td class="noClass" i="" colspan="1"> RRR Week </td>
           <td class="noClass" colspan="1"> CS Ed Day </td>
-          <td colspan="3" class="noClass" 3"="">RRR Week</td>
+          <td colspan="3" class="noClass">RRR Week</td>
           <td class="calendar" id="12" title="10">   </td>
         </tr>
         <tr>
